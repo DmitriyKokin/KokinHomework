@@ -6,10 +6,9 @@ def decoder(arr):
     for i in range(len(arr)):
         arr[i] = arr[i].decode('utf-8')
     return arr
-
 try:
     n = int(input(f'n = '))
-except:
+except Exception:
     print('usererror')
     exit()
 a = []
