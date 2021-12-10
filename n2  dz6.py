@@ -6,7 +6,6 @@ str = []
 for i in a:
     str.append(i.split(' '))
 a.close()
-
 try:
     c = int(str[0][0])
     h = int(str[0][1])
