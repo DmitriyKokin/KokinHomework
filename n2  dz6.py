@@ -1,6 +1,6 @@
 try:
     a = open('input2.txt','r')
-except:
+except Exception:
     print(f'file not found')
 str = []
 for i in a:
@@ -10,7 +10,7 @@ try:
     c = int(str[0][0])
     h = int(str[0][1])
     o = int(str[0][2])
-except:
+except Exception:
     print('usrerror')
     exit()
 out = open('output.txt', 'w')
