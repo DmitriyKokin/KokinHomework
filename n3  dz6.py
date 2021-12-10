@@ -7,14 +7,14 @@ mytext = ''
 try:
     a = open('input3.txt','r')
     mytext = a.read()
-except:
+except Exception:
     print(f'file not found')
     exit()
 a.close()
 print(f'Текст, прочитанный из файла:\n{mytext}\n')
 try:
     key = int(input(f'Введите ключ шифрования..(int)'))
-except:
+except Exception:
     print(f'Unknown Error')
     exit()
 e = encrypt(mytext, key)
