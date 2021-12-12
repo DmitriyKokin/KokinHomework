@@ -1,8 +1,14 @@
 def encoder(arr):
+    """Функция кодирует строку, переданную в качестве аргумента
+       Возвращает закодированную версию строки
+       """
     for i in range(len(arr)):
         arr[i] = arr[i].encode('utf-8')
     return arr
 def decoder(arr):
+    """Функция декодирует строку, переданную в качестве аргумента
+       Возвращает раскодированную версию строки
+       """
     for i in range(len(arr)):
         arr[i] = arr[i].decode('utf-8')
     return arr
