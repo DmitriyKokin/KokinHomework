@@ -1,11 +1,15 @@
 def encrypt(text, key):
+    """Функция на вход получает строку и ключ
+       На основе которого будет выполнено шифрование XOR
+       Возвращает закодированну/раскодированную строку
+       """
     encript_str = ""
     for letter in text:
-        encript_str += chr(ord(letter) ^ key )
+        encript_str += chr(ord(letter) ^ key)
     return  encript_str   
 mytext = ''
 try:
-    a = open('input3.txt','r')
+    a = open('input3.txt', 'r')
     mytext = a.read()
 except Exception:
     print(f'file not found')
