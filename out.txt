@@ -1,0 +1,39 @@
+addition was successfully calculated. Result:  9
+addition was successfully calculated. Result:  -4
+addition was successfully calculated. Result:  78
+addition was successfully calculated. Result:  -3312
+addition was successfully calculated. Result:  7
+addition was successfully calculated. Result:  6
+addition was successfully calculated. Result:  9
+addition was successfully calculated. Result:  9  Time: 0
+addition was successfully calculated. Result:  10600  Time: 0
+addition was successfully calculated. Result:  900  Time: 2ms
+addition was successfully calculated. Result:  1000890  Time: 1ms
+addition was successfully calculated. Result:  -45346476455  Time: 2ms
+addition was successfully calculated. Result:  -43643070058899889889  Time: 1ms
+addition was successfully calculated. Result:  25  Time: 1ms
+addition was successfully calculated. Result:  None  Time: 1ms
+addition was successfully calculated. Result:  33  Time: 0ms
+addition was successfully calculated. Result:  3757  Time: 1ms
+addition was successfully calculated. Result:  7  Time: 3005ms
+addition was successfully calculated. Result:  3657490  Time: 8013ms
+addition was successfully calculated. Result:  2447746  Time: 10012ms
+addition was successfully calculated. Result:  4335  Time: 6008ms
+addition was successfully calculated. Result:  86  Time: 7005ms
+addition was successfully calculated. Result:  4  Time: 5007ms
+addition was successfully calculated. Result:  43  Time: 10009ms
+addition was successfully calculated. Result:  639992  Time: 7015ms
+addition was successfully calculated. Result:  0  Time: 7015ms
+addition was successfully calculated. Result:  8  Time: 9010ms
+addition was successfully calculated. Result:  5  Time: 6009ms
+addition was successfully calculated. Result:  5  Time: 8008ms
+addition was successfully calculated. Result:  4  Time: 5015ms
+addition was successfully calculated. Result:  2  Time: 5013ms
+addition was successfully calculated. Result:  2  Time: 6009ms
+addition was successfully calculated. Result:  7  Time: 5013ms
+addition was successfully calculated. Result:  6  Time: 6008ms
+addition was successfully calculated. Result:  2  Time: 5007ms
+addition was successfully calculated. Result:  4  Time: 6004ms
+addition was successfully calculated. Result:  3  Time: 6017ms
+addition was successfully calculated. Result:  12  Time: 7005ms
+addition was successfully calculated. Result:  4  Time: 5015ms
